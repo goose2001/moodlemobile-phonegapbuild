@@ -5,10 +5,10 @@
         id        = "au.edu.appliededucation"
         versionCode = "2016"
         version   = "3.1.2beta">
-    <name>Applied Education - Study On The Go!</name>
+    <name>Applied Education Mobile</name>
 
     <description>
-        Applied Education App
+        Applied Education Study On The Go!
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
