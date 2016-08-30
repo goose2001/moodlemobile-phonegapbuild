@@ -4,14 +4,14 @@
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "au.edu.appliededucation"
         versionCode = "2016"
-        version   = "3.1.3beta">
+        version   = "3.1.3">
     <name>Applied Education Mobile</name>
 
     <description>
         Applied Education Study On The Go
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
+    <author href="https://www.appliededucation.edu.au/" email="dan@appliededucation.edu.au">
         Applied Education
     </author>
 
