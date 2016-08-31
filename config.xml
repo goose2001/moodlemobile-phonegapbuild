@@ -4,7 +4,7 @@
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "au.edu.appliededucation"
         versionCode = "2016"
-        version   = "3.1.2beta">
+        version   = "3.1.2">
     <name>Applied Education Study On The Go</name>
 
     <description>
